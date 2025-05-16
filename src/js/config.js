@@ -10,8 +10,6 @@ function toggleMobileMenu() {
   menuToggle.classList.toggle("active");
 }
 
-// AIzaSyBVwcNGmuDqtSlekoY9Zfq_jIyjVO5fcgY
-
 // Toggle theme
 function toggleTheme() {
   html.classList.toggle("dark-theme");
